@@ -1,0 +1,2 @@
+# MAPDATA
+Statistics of MAP
